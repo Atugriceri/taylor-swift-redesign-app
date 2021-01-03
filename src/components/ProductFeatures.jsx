@@ -10,7 +10,7 @@ function ProductFeatures(props) {
 
   const { backgroundColor, textColor } = modeContextAPI.modeObj;
 
-  const product = productList.filter(item => item._id === Number(productID));
+  const product = productList.filter(item => item.id === Number(productID));
 
   return (
     <div className="container mt-5">

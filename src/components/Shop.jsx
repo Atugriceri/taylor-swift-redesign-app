@@ -18,7 +18,7 @@ function Shop(props) {
   const productsMap = productList.map(item => (
     <div className="col">
       <div className={`card rounded-card h-100 ${cardBg}`}>
-        <Link className="text-decoration-none" to={`/shop/${item._id}`}>
+        <Link className="text-decoration-none" to={`/shop/${item.id}`}>
           <img
             className="w-100 mb-3 product-img card-img-top rounded-img img-fluid"
             src={item.imgUrl}

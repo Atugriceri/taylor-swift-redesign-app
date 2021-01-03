@@ -1,6 +1,6 @@
 export const productList = [
   {
-    _id: 1,
+    id: 1,
     title: "look what you made me do single CD",
     detail:
       "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. the point of using lorem ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable english.",
@@ -9,7 +9,7 @@ export const productList = [
     price: "$10"
   },
   {
-    _id: 2,
+    id: 2,
     title: "reputation album deluxe edition CD",
     detail:
       "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. the point of using lorem ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable english.",
@@ -18,7 +18,7 @@ export const productList = [
     price: "$10"
   },
   {
-    _id: 3,
+    id: 3,
     title: "look what you made me do single deluxe edition CD",
     detail:
       "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. the point of using lorem ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable english.",
@@ -27,7 +27,7 @@ export const productList = [
     price: "$10"
   },
   {
-    _id: 4,
+    id: 4,
     title: "the “incandescent glow” lithograph",
     detail:
       "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. the point of using lorem ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable english.",
@@ -36,7 +36,7 @@ export const productList = [
     price: "$10"
   },
   {
-    _id: 5,
+    id: 5,
     title: "the “meet me behind the mall” lithograph",
     detail:
       "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. the point of using lorem ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable english.",
@@ -45,7 +45,7 @@ export const productList = [
     price: "$10"
   },
   {
-    _id: 6,
+    id: 6,
     title: "willow - dancing witch version (Elvira remix) digital download",
     detail:
       "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. the point of using lorem ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable english.",
@@ -54,7 +54,7 @@ export const productList = [
     price: "$10"
   },
   {
-    _id: 7,
+    id: 7,
     title: "the “in from the snow” beanie",
     detail:
       "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. the point of using lorem ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable english.",
@@ -63,7 +63,7 @@ export const productList = [
     price: "$10"
   },
   {
-    _id: 8,
+    id: 8,
     title: "the “bluest skies the darkest gray” pullover",
     detail:
       "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. the point of using lorem ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable english.",
@@ -72,7 +72,7 @@ export const productList = [
     price: "$10"
   },
   {
-    _id: 9,
+    id: 9,
     title: "the “tolerate it” socks",
     detail:
       "it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. the point of using lorem ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable english.",
